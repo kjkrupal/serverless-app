@@ -9,3 +9,5 @@ app = core.App()
 ServerlessAppStack(app, "serverless-app")
 
 app.synth()
+
+# Will be declaring stcks here.

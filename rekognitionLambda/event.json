@@ -1,0 +1,12 @@
+{
+    "Records": [{
+		"s3": {
+			"bucket": {
+				"name": "serverless-app-img-bucket"
+			},
+			"object": {
+				"key": "image.jpg"
+			}
+		}
+	}]
+}
